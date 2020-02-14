@@ -317,7 +317,7 @@ bem aos dados, se tornando ineficaz para prever observações novas.
 O gráfico abaixo ilustra este conceito no contexto de um modelo de
 classificação.
 
-<img src="sobre.png" width="700" height="700">
+<img src="sobre.png" width="700" height="900">
 
 Note como o modelo sobreajustado acompanha os dados muito mais de perto,
 enquanto o modelo ajustado segue a tendência geral de separação dos
